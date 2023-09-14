@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/QHdd4cJ/marble-platform-front-city-skyline.jpg",
+      "title": "Harry Potter",
+      "author_img": "https://i.ibb.co/Z6kcnLk/cat-10-e1573844975155-scaled.jpg",
+      "author": "J.K. Rowling",
+      "posted_date": "2023-09-14",
+      "reading_times": 120,
+      "hashtags": ["fantasy", "magic", "adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/T2SL20X/pankaj-patel-1-IW4-HQuau-SU-unsplash.jpg",
+      "title": "Harry Potter",
+      "author_img": "https://i.ibb.co/Z6kcnLk/cat-10-e1573844975155-scaled.jpg",
+      "author": "Stephen King",
+      "posted_date": "2023-09-15",
+      "reading_times": 130,
+      "hashtags": ["mystery", "thriller", "fantasy"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/V9R3CHd/workers-placing-new-coating-asphalt-road.jpg",
+      "title": "Harry Potter",
+      "author_img": "https://i.ibb.co/Z6kcnLk/cat-10-e1573844975155-scaled.jpg",
+      "author": "George R.R. Martin",
+      "posted_date": "2023-09-16",
+      "reading_times": 140,
+      "hashtags": ["fantasy", "dragons", "epic"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/T2SL20X/pankaj-patel-1-IW4-HQuau-SU-unsplash.jpg",
+      "title": "Harry Potter",
+      "author_img": "https://i.ibb.co/Z6kcnLk/cat-10-e1573844975155-scaled.jpg",
+      "author": "Agatha Christie",
+      "posted_date": "2023-09-17",
+      "reading_times": 150,
+      "hashtags": ["mystery", "whodunit", "detective"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/QHdd4cJ/marble-platform-front-city-skyline.jpg",
+      "title": "Harry Potter",
+      "author_img": "https://i.ibb.co/Z6kcnLk/cat-10-e1573844975155-scaled.jpg",
+      "author": "J.R.R. Tolkien",
+      "posted_date": "2023-09-18",
+      "reading_times": 160,
+      "hashtags": ["fantasy", "adventure", "epic"]
+    }
+  ]
+  
